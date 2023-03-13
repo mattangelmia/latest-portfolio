@@ -11,7 +11,7 @@ function Portfolio() {
 					<Container>
 						<h1 className="display-4 text-center">Portfolio</h1>
 						<p className="lead responsive text-center">
-							Here are some of my full stack applications built with React, Node, Express, MongoDB, and Bootstrap.
+							Here are some of my personal projects and larger sites I have worked on .
 						</p>
 					</Container>
 				</div>

@@ -32,18 +32,7 @@ const skillTypes = [
 			"Jest",
 			"Webpack"
 		]
-	}, {
-		name: "Database Skills",
-		skills: [
-			"MySQL",
-			"Sequelize",
-			"NoSQL",
-			"SQLite",
-			"GraphQL",
-			"MongoDB",
-			"Mongoose"
-		]
-	},
+	}
 ];
 
 	function Resume() {

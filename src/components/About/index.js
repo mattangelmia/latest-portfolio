@@ -15,7 +15,7 @@ function About() {
 			<Row>
 				<Col xs={8} sm={6} md={6} lg={3} className="center mx-auto mb-lg-5 mb-m-4 mb-3">
 					<img
-						src="https://github.com/lukecp5/react-portfolio/blob/main/src/assets/images/lp-avatar-thumb.jpg?raw=true"
+						src="https://media.licdn.com/dms/image/C4E03AQESp6FhXzhc5g/profile-displayphoto-shrink_400_400/0/1600012048887?e=1683763200&v=beta&t=o2d1MnOPUSmNmNYVT_V47MbnX_cvufyzwKrv0JD2Hw0"
 						alt="Me"
 						className="img-fluid rounded-circle"
 					/>
@@ -23,14 +23,13 @@ function About() {
 
 				<Col xs={12} sm={6} md={6} className="text-center my-auto" id="about">
 					<p>
-						My name is Luke Poirrier, and I currently reside in North Georgia. I have over 10 years of
-						experience in various types of coding. I am currently enrolled at a coding boot camp at the
-						Georgia Institute of Technology(GA Tech) to solidify my foundational knowledge of development.
+						My name is Matthew Angel, and I currently reside in Miami,Florida. I have about 2 and a half years of
+						experience in Front End Development.
 					</p>
 					<p>
-						I have experience in front-end web development, working with technologies like AJAX, Bootstrap,
-						CSS, HTML, JavaScript, JSON, Materialize.css, Node.JS, and various other modern development
-						media.
+						I have experience in front-end web development, working with technologies like React, Bootstrap,
+						CSS, HTML, JavaScript, JSON,and various other modern development
+						Technologies.
 					</p>
 				</Col>
 			</Row>
