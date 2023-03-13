@@ -21,6 +21,9 @@
     "react-social-icons": "^5.6.1",
     "web-vitals": "^1.1.2"
   },
+  "engines": {
+    "node": "19.7.0"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
